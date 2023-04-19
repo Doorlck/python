@@ -1,0 +1,17 @@
+# 입출력: Input/Output   IO
+input(): string
+print()
+
+# 파일 입출력
+open()
+f.read()
+f.readline()
+f.readlines() 
+f.write()  
+f.close()
+
+파일 읽기: 컴퓨터 <- 파일 
+파일 쓰기: 컴퓨터 -> 파일
+
+
+#결과

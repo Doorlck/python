@@ -1,0 +1,10 @@
+https://dojang.io/course/view.php?id=7 코딩 도장 
+https://wikidocs.net/book/922 초보자를 위한 파이썬 300제
+https://wikidocs.net/book/1 점프 투 파이썬
+
+#생활 코딩
+https://www.youtube.com/watch?v=-3DHpwy498o&list=PLuHgQVnccGMDtnr4nTSFfmocHL5FeH1xR
+https://www.youtube.com/watch?v=ySlod5oxoV8&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5
+https://www.youtube.com/watch?v=ySlod5oxoV8&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5
+
+#업무자동화, 웹크롤링

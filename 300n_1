@@ -1,0 +1,49 @@
+#print("안녕하세요.\n만나서\t\t반갑습니다.
+
+
+# 문자열 치환
+# phonenum = '010-1111-2222'
+# phonenum1=phonenum.replace('-',' ')
+# print(phonenum1)
+
+# 문자열은 할당 메서드를 지원하지 않음
+
+string = 'abcd'
+string.replace('b', 'B')
+print(string)
+# 정답확인
+# `abcd`가 그대로 출력됩니다. 왜냐하면 문자열은
+# 변경할 수 없는 자료형이기 때문입니다. 
+#replace 메서드를 사용하면 원본은 그대로 둔채로
+# 변경된 새로운 문자열 객체를 리턴해줍니다.
+
+#웹페이지 주소에서 도메인만 출력하기
+# url= "http://sharebook.kr"
+# url_split=url.split('.')
+# print(url_split[-1])
+
+#변수 두 개 입력받아 저장하기
+# a,b= input().split()
+# print(a,b)
+
+#format() 함수 
+# name1 = "김민수" 
+# age1 = 10
+# name2 = "이철희"
+# age2 = 13
+# print("이름: {} 나이: {}".format(name1, age1))
+# print("이름: {} 나이: {}".format(name2, age2))
+
+
+#strip 매서드
+#문자열에서 strip( ) 메서드를 사용하면 
+; 좌우의 공백을 제거할 수 있습니다. 
+; 이때 원본 문자열은 그대로 유지되고
+;  공백이 제거된 새로운 문자열이 반환됩니다.
+
+
+
+
+
+
+
